@@ -1,35 +1,47 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+	// Replace 'profile.jpg' with your actual image filename
+	const profileImg = '/images/jack_soccer.jpg'
+	// Placeholder links and labels
+	const links = [
+		{
+			href: 'https://recruit-match.ncsasports.org/clientrms/athletes/11904466',
+			label: 'NCSA Profile',
+		},
+		{
+			href: 'https://vimeo.com/manage/videos/1099407129',
+			label: 'Highlight Reel',
+		},
+		{ href: 'https://www.nhhsboyssoccer.com/', label: 'NHHS Sailors' },
+		{
+			href: 'https://www.pateadores.org/newport-beach/costa-mesa#NBCMTEAMS',
+			label: 'Pateadores Newport Beach',
+		},
+		{
+			href: 'mailto:jackmcb08@gmail.com',
+			label: 'Get In Touch',
+		},
+	]
 
-  return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+	return (
+		<div className='container'>
+			<img src={profileImg} alt='Profile' className='profile-img' />
+			<div className='links-col'>
+				{links.map((link, idx) => (
+					<a
+						key={idx}
+						href={link.href}
+						className='profile-link'
+						target='_blank'
+						rel='noopener noreferrer'
+					>
+						{link.label}
+					</a>
+				))}
+			</div>
+		</div>
+	)
 }
 
 export default App
