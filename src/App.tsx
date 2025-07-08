@@ -1,9 +1,7 @@
 import './App.css'
 
-function App() {
-	// Replace 'profile.jpg' with your actual image filename
+const App = () => {
 	const profileImg = '/images/jack_soccer.jpg'
-	// Placeholder links and labels
 	const links = [
 		{
 			href: 'https://recruit-match.ncsasports.org/clientrms/athletes/11904466',
