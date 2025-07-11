@@ -25,6 +25,11 @@ const App = () => {
 	return (
 		<div className='container'>
 			<img src={profileImg} alt='Profile' className='profile-img' />
+			<div className='profile-info'>
+				<div className='profile-name'>Jack McBride</div>
+				<div className='profile-school'>Newport Harbor High School</div>
+				<div className='profile-gpa'>Class of 2026 - 3.8 GPA</div>
+			</div>
 			<div className='links-col'>
 				{links.map((link, idx) => (
 					<a
