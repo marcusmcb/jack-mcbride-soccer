@@ -8,11 +8,11 @@ const App = () => {
 			label: 'NCSA Profile',
 		},
 		{
-			href: 'https://vimeo.com/1053404981?p=0s',
+			href: 'https://vimeo.com/1105218858',
 			label: 'Assist On Goal',
 		},
 		{
-			href: 'https://vimeo.com/manage/videos/1099407129',
+			href: 'https://vimeo.com/1105215223',
 			label: 'Highlight Reel',
 		},
 		{ href: 'https://www.nhhsboyssoccer.com/', label: 'NHHS Sailors' },
