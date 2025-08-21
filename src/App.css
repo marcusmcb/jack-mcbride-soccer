@@ -87,7 +87,7 @@ body {
 	color: #fff;
 	text-align: center;
 	border-radius: 2.2rem;
-	font-size: 1.18rem;
+	font-size: 1.25rem;
 	font-weight: 600;
 	text-decoration: none;
 	box-shadow: 0 2px 8px 0 rgba(30, 198, 182, 0.1);
@@ -98,6 +98,7 @@ body {
 }
 
 .profile-link:hover {
+	color: rgb(255, 216, 158);
 	background: linear-gradient(90deg, #1e90c6 0%, #1ec6b6 100%);
 	transform: translateY(-2px) scale(1.04);
 }
@@ -106,14 +107,12 @@ body {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	margin-bottom: 2rem;
+	margin-bottom: 4rem;
 	color: #fff;
 }
 
 .profile-name {
-	font-size: 1.5rem;
-	font-weight: 700;
-	margin-bottom: 0.5rem;
+	font-size: 2.5rem;
 }
 
 .profile-school {
@@ -125,6 +124,69 @@ body {
 .profile-gpa {
 	font-size: 1.1rem;
 	font-weight: 400;
+}
+
+.events-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #fff;
+  margin-top: 2rem;
+}
+
+.events-title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+}
+
+.events-list {
+  width: 100%;
+  max-width: 440px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.event-card {
+  background: linear-gradient(90deg, #019485 0%, #0a92d1 100%);
+  border-radius: 1.5rem;
+  padding: 1.2rem 2rem;
+  color: #fff;
+  box-shadow: 0 2px 8px 0 rgba(30,198,182,0.10);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.event-name {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+	color: rgb(255, 216, 158)
+}
+
+.event-details {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.event-location {
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.event-map-link {
+  color: #fff;
+  font-weight: 600;
+  text-decoration: underline;
+  margin-left: 0.5rem;
+  transition: color 0.2s;
+}
+
+.event-map-link:hover {
+  color: #0a1833;
 }
 
 @media (max-width: 600px) {
