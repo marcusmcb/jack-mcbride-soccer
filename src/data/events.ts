@@ -44,7 +44,7 @@ export const events = [
 	{
 		name: 'Pateadores vs HB 2007/2008',
 		date: '09/07/2025',
-		time: '12:10 PM',
+		time: '8:30 AM',
 		location: 'Bonita Creek Park (Newport Beach)',
 		map: 'https://www.google.com/maps/place/Bonita+Creek+Park+Community+Center/@33.6474099,-117.8664228,16z/data=!4m14!1m7!3m6!1s0x80dcde38878861c9:0xecd0fd85006c598c!2sBonita+Creek+Park+Community+Center!8m2!3d33.6474099!4d-117.8638479!16s%2Fg%2F1th63pc2!3m5!1s0x80dcde38878861c9:0xecd0fd85006c598c!8m2!3d33.6474099!4d-117.8638479!16s%2Fg%2F1th63pc2!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D',
 	},
