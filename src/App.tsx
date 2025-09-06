@@ -8,25 +8,20 @@ const App = () => {
 	const links = [
 		{
 			href: '#events',
-			label: 'Upcoming Events',
+			label: 'Fall 2025 Schedule',
 			onClick: (e: React.MouseEvent) => {
 				e.preventDefault()
 				setPage('events')
 			},
 		},
 		{
-			href: 'https://recruit-match.ncsasports.org/clientrms/athletes/11904466',
-			label: 'NCSA Profile',
-		},
-		{
 			href: 'https://vimeo.com/1105215223',
 			label: 'Highlight Reel',
 		},
-		// {
-		// 	href: 'https://vimeo.com/1105218858',
-		// 	label: 'Assist On Goal',
-		// },
-
+		{
+			href: 'https://recruit-match.ncsasports.org/clientrms/athletes/11904466',
+			label: 'NCSA Profile',
+		},
 		{ href: 'https://www.nhhsboyssoccer.com/', label: 'NHHS Sailors' },
 		{
 			href: 'https://www.pateadores.org/newport-beach/costa-mesa#NBCMTEAMS',
@@ -66,7 +61,7 @@ const App = () => {
 			)}
 			{page === 'events' && (
 				<div className='events-page'>
-					<h2 className='events-title'>Upcoming Soccer Events</h2>
+					<h2 className='events-title'>Upcoming Games</h2>
 					<div className='events-list'>
 						{events.map((event, idx) => (
 							<div className='event-card' key={idx}>
@@ -83,7 +78,7 @@ const App = () => {
 											target='_blank'
 											rel='noopener noreferrer'
 										>
-											&nbsp;View Map
+											View Map
 										</a>
 									)}
 								</div>
