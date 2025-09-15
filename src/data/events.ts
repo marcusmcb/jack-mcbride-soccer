@@ -48,13 +48,13 @@ export const events = [
 	// 	location: 'Bonita Creek Park (Newport Beach)',
 	// 	map: 'https://www.google.com/maps/place/Bonita+Creek+Park+Community+Center/@33.6474099,-117.8664228,16z/data=!4m14!1m7!3m6!1s0x80dcde38878861c9:0xecd0fd85006c598c!2sBonita+Creek+Park+Community+Center!8m2!3d33.6474099!4d-117.8638479!16s%2Fg%2F1th63pc2!3m5!1s0x80dcde38878861c9:0xecd0fd85006c598c!8m2!3d33.6474099!4d-117.8638479!16s%2Fg%2F1th63pc2!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D',
 	// },
-	{
-		name: 'Pateadores vs LA Breakers FC',
-		date: '09/14/2025',
-		time: '2:35 PM',
-		location: 'Perry Lindsay Academy (Long Beach)',
-		map: 'https://www.google.com/maps/search/?api=1&query=5075%20Daisy%20Ave%20Long%20Beach%2C%20CA%2C%20US',
-	},
+	// {
+	// 	name: 'Pateadores vs LA Breakers FC',
+	// 	date: '09/14/2025',
+	// 	time: '2:35 PM',
+	// 	location: 'Perry Lindsay Academy (Long Beach)',
+	// 	map: 'https://www.google.com/maps/search/?api=1&query=5075%20Daisy%20Ave%20Long%20Beach%2C%20CA%2C%20US',
+	// },
 	{
 		name: 'Pateadores vs South County SC',
 		date: '09/14/2025',
