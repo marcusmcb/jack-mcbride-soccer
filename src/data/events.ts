@@ -55,13 +55,13 @@ export const events = [
 	// 	location: 'Perry Lindsay Academy (Long Beach)',
 	// 	map: 'https://www.google.com/maps/search/?api=1&query=5075%20Daisy%20Ave%20Long%20Beach%2C%20CA%2C%20US',
 	// },
-	{
-		name: 'Pateadores vs South County SC',
-		date: '09/14/2025',
-		time: '8:30 AM',
-		location: 'Arroyo Park (Newport Beach)',
-		map: 'https://www.google.com/maps/search/?api=1&query=5075%20Daisy%20Ave%20Long%20Beach%2C%20CA%2C%20US',
-	},
+	// {
+	// 	name: 'Pateadores vs South County SC',
+	// 	date: '09/14/2025',
+	// 	time: '8:30 AM',
+	// 	location: 'Arroyo Park (Newport Beach)',
+	// 	map: 'https://www.google.com/maps/search/?api=1&query=5075%20Daisy%20Ave%20Long%20Beach%2C%20CA%2C%20US',
+	// },
 	// {
 	// 	name: 'Sailors vs Crean Lutheran',
 	// 	date: '11/21/2025',
