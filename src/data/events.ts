@@ -62,13 +62,13 @@ export const events = [
 	// 	location: 'Arroyo Park (Newport Beach)',
 	// 	map: 'https://www.google.com/maps/search/?api=1&query=5075%20Daisy%20Ave%20Long%20Beach%2C%20CA%2C%20US',
 	// },
-	// {
-	// 	name: 'Sailors vs Crean Lutheran',
-	// 	date: '11/21/2025',
-	// 	time: '4:30 PM',
-	// 	location: 'Crean Lutheran High School (Irvine)',
-	// 	map: 'https://www.google.com/maps/place/Crean+Lutheran+High+School+Athletic+Complex/@33.7070494,-117.735015,17z/data=!3m1!4b1!4m6!3m5!1s0x80dcc32c3405e6a1:0xbe86cd2b4a049c6a!8m2!3d33.7070494!4d-117.7324401!16s%2Fg%2F11c5s4j4j2!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D',
-	// },
+	{
+		name: 'Pateadores vs Premier HB',
+		date: '09/27/2025',
+		time: '5:00 PM',
+		location: 'Marina High School (Huntington Beach)',
+		map: 'https://www.google.com/maps/place/Marina+High+School/@33.7313324,-118.0477066,14z/data=!3m1!4b1!4m6!3m5!1s0x80dd25e7537bbb71:0x9baf47a89362caa8!8m2!3d33.7313341!4d-118.02715!16zL20vMGcwYnhk!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D',
+	},
 	{
 		name: 'Sailors vs Rancho Alamitos',
 		date: '12/02/2025',
