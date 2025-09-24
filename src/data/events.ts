@@ -65,9 +65,9 @@ export const events = [
 	{
 		name: 'Pateadores vs Premier HB',
 		date: '09/27/2025',
-		time: '5:00 PM',
-		location: 'Marina High School (Huntington Beach)',
-		map: 'https://www.google.com/maps/place/Marina+High+School/@33.7313324,-118.0477066,14z/data=!3m1!4b1!4m6!3m5!1s0x80dd25e7537bbb71:0x9baf47a89362caa8!8m2!3d33.7313341!4d-118.02715!16zL20vMGcwYnhk!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D',
+		time: '4:55 PM',
+		location: 'St Anthony High School (Long Beach)',
+		map: 'https://www.google.com/maps/place/Athletic+Complex+%7C+St.+Anthony+High+School/@33.8443751,-118.1333519,597m/data=!3m1!1e3!4m14!1m7!3m6!1s0x80dd3260e732125d:0xfbb89402035b1112!2sAthletic+Complex+%7C+St.+Anthony+High+School!8m2!3d33.8451572!4d-118.1329072!16s%2Fg%2F1v0ll29q!3m5!1s0x80dd3260e732125d:0xfbb89402035b1112!8m2!3d33.8451572!4d-118.1329072!16s%2Fg%2F1v0ll29q!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkyMi4wIKXMDSoASAFQAw%3D%3D',
 	},
 	{
 		name: 'Sailors vs Rancho Alamitos',
