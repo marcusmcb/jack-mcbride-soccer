@@ -62,13 +62,13 @@ export const events = [
 	// 	location: 'Arroyo Park (Newport Beach)',
 	// 	map: 'https://www.google.com/maps/search/?api=1&query=5075%20Daisy%20Ave%20Long%20Beach%2C%20CA%2C%20US',
 	// },
-	{
-		name: 'Pateadores vs Premier HB',
-		date: '09/27/2025',
-		time: '4:55 PM',
-		location: 'St Anthony High School (Long Beach)',
-		map: 'https://www.google.com/maps/place/Athletic+Complex+%7C+St.+Anthony+High+School/@33.8443751,-118.1333519,597m/data=!3m1!1e3!4m14!1m7!3m6!1s0x80dd3260e732125d:0xfbb89402035b1112!2sAthletic+Complex+%7C+St.+Anthony+High+School!8m2!3d33.8451572!4d-118.1329072!16s%2Fg%2F1v0ll29q!3m5!1s0x80dd3260e732125d:0xfbb89402035b1112!8m2!3d33.8451572!4d-118.1329072!16s%2Fg%2F1v0ll29q!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkyMi4wIKXMDSoASAFQAw%3D%3D',
-	},
+	// {
+	// 	name: 'Pateadores vs Premier HB',
+	// 	date: '09/27/2025',
+	// 	time: '4:55 PM',
+	// 	location: 'St Anthony High School (Long Beach)',
+	// 	map: 'https://www.google.com/maps/place/Athletic+Complex+%7C+St.+Anthony+High+School/@33.8443751,-118.1333519,597m/data=!3m1!1e3!4m14!1m7!3m6!1s0x80dd3260e732125d:0xfbb89402035b1112!2sAthletic+Complex+%7C+St.+Anthony+High+School!8m2!3d33.8451572!4d-118.1329072!16s%2Fg%2F1v0ll29q!3m5!1s0x80dd3260e732125d:0xfbb89402035b1112!8m2!3d33.8451572!4d-118.1329072!16s%2Fg%2F1v0ll29q!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkyMi4wIKXMDSoASAFQAw%3D%3D',
+	// },
 	{
 		name: 'Sailors vs Rancho Alamitos',
 		date: '12/02/2025',
