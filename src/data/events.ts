@@ -70,6 +70,48 @@ export const events = [
 	// 	map: 'https://www.google.com/maps/place/Athletic+Complex+%7C+St.+Anthony+High+School/@33.8443751,-118.1333519,597m/data=!3m1!1e3!4m14!1m7!3m6!1s0x80dd3260e732125d:0xfbb89402035b1112!2sAthletic+Complex+%7C+St.+Anthony+High+School!8m2!3d33.8451572!4d-118.1329072!16s%2Fg%2F1v0ll29q!3m5!1s0x80dd3260e732125d:0xfbb89402035b1112!8m2!3d33.8451572!4d-118.1329072!16s%2Fg%2F1v0ll29q!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkyMi4wIKXMDSoASAFQAw%3D%3D',
 	// },
 	{
+		name: 'Pateadores vs Strikers FC',
+		date: '10/4/2025',
+		time: '10:55 AM',
+		location: 'Canyon High School',
+		map: 'https://www.google.com/maps/place/220+S+Imperial+Hwy,+Anaheim,+CA+92807/@33.8474679,-117.7895308,902m/data=!3m2!1e3!4b1!4m6!3m5!1s0x80dcd0fea2a5926d:0x615358d953c989af!8m2!3d33.8474679!4d-117.7895308!16s%2Fg%2F11c1c82022?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D',
+	},
+	{
+		name: 'Pateadores vs FC Premier',
+		date: '10/5/2025',
+		time: '12:30 PM',
+		location: 'St John Bosco High School',
+		map: 'https://www.google.com/maps/place/St.+John+Bosco+High+School/@33.9067118,-118.123788,418m/data=!3m1!1e3!4m14!1m7!3m6!1s0x80c2cd435e6e98f9:0x80304eb003c75316!2sSt.+John+Bosco+High+School!8m2!3d33.9066078!4d-118.123248!16zL20vMDk4bHR4!3m5!1s0x80c2cd435e6e98f9:0x80304eb003c75316!8m2!3d33.9066078!4d-118.123248!16zL20vMDk4bHR4?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D',
+	},
+	{
+		name: 'Pateadores vs FC Scorpions',
+		date: '10/12/2025',
+		time: '10:25 AM',
+		location: 'Bonita Creek Park (Newport Beach)',
+		map: 'google.com/maps/search/?api=1&query=3010%20La%20Vida%20Newport%20Beach%2C%20CA%2092660%2C%20USA',
+	},
+	{
+		name: 'Pateadores vs Sporting Slammers',
+		date: '10/19/2025',
+		time: '7:00 PM',
+		location: 'Irvine Great Park - Field 6',
+		map: 'https://www.google.com/maps/search/?api=1&query=Cadence%20%26%2C%20S%209th%20St%2C%20Irvine%2C%20CA%2092618%2C%20USA',
+	},
+	{
+		name: 'Pateadores vs CDA Slammers',
+		date: '10/25/2025',
+		time: '2:05 PM',
+		location: 'Sunset Ridge Park (Newport Beach)',
+		map: 'https://www.google.com/maps/place/4998+Pacific+Coast+Hwy,+Newport+Beach,+CA+92663/@33.6241549,-117.9412741,904m/data=!3m2!1e3!4b1!4m5!3m4!1s0x80dd2013df4a41eb:0x159359e517c090db!8m2!3d33.6241549!4d-117.9412741?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D',
+	},
+	{
+		name: 'Pateadores vs San Clemente Surf',
+		date: '10/26/2025',
+		time: '10:15 AM',
+		location: 'Lincoln Elementary School',
+		map: 'https://www.google.com/maps/search/?api=1&query=3101%20Pacific%20View%20Dr%2C%20Corona%20Del%20Mar%2C%20CA%2092625%2C%20USA',
+	},
+	{
 		name: 'Sailors vs Rancho Alamitos',
 		date: '12/02/2025',
 		time: '4:30 PM',
@@ -181,5 +223,4 @@ export const events = [
 		location: 'Huntington Beach High School',
 		map: 'https://www.google.com/maps/place/Huntington+Beach+High+School/@33.6764141,-118.0231281,14z/data=!3m1!4b1!4m6!3m5!1s0x80dd26b32503f25b:0x99cad47972c7c3b5!8m2!3d33.6764158!4d-118.0025715!16zL20vMDk2Yzhi!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D',
 	},
-	
 ]
