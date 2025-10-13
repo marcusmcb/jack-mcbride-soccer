@@ -83,13 +83,13 @@ export const events = [
 	// 	location: 'St John Bosco High School',
 	// 	map: 'https://www.google.com/maps/place/St.+John+Bosco+High+School/@33.9067118,-118.123788,418m/data=!3m1!1e3!4m14!1m7!3m6!1s0x80c2cd435e6e98f9:0x80304eb003c75316!2sSt.+John+Bosco+High+School!8m2!3d33.9066078!4d-118.123248!16zL20vMDk4bHR4!3m5!1s0x80c2cd435e6e98f9:0x80304eb003c75316!8m2!3d33.9066078!4d-118.123248!16zL20vMDk4bHR4?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D',
 	// },
-	{
-		name: 'Pateadores vs FC Scorpions',
-		date: '10/12/2025',
-		time: '10:25 AM',
-		location: 'Bonita Creek Park (Newport Beach)',
-		map: 'google.com/maps/search/?api=1&query=3010%20La%20Vida%20Newport%20Beach%2C%20CA%2092660%2C%20USA',
-	},
+	// {
+	// 	name: 'Pateadores vs FC Scorpions',
+	// 	date: '10/12/2025',
+	// 	time: '10:25 AM',
+	// 	location: 'Bonita Creek Park (Newport Beach)',
+	// 	map: 'google.com/maps/search/?api=1&query=3010%20La%20Vida%20Newport%20Beach%2C%20CA%2092660%2C%20USA',
+	// },
 	{
 		name: 'Pateadores vs Sporting Slammers',
 		date: '10/19/2025',
