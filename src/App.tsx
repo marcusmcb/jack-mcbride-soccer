@@ -15,7 +15,7 @@ const App = () => {
 			},
 		},
 		{
-			href: 'https://vimeo.com/1105215223',
+			href: 'https://vimeo.com/1126689466',
 			label: 'Highlight Reel',
 		},
 		{
