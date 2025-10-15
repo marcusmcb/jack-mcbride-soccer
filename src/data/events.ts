@@ -93,9 +93,9 @@ export const events = [
 	{
 		name: 'Pateadores vs Sporting Slammers',
 		date: '10/19/2025',
-		time: '7:00 PM',
-		location: 'Irvine Great Park - Field 6',
-		map: 'https://www.google.com/maps/search/?api=1&query=Cadence%20%26%2C%20S%209th%20St%2C%20Irvine%2C%20CA%2092618%2C%20USA',
+		time: '10:30 AM',
+		location: 'Mark Daily Athletic Field (Irvine)',
+		map: 'https://www.google.com/maps/place/Mark+Daily+Athletic+Field/@33.6796469,-117.8119169,17z/data=!4m14!1m7!3m6!1s0x80dcddcac4543133:0xc4659aaec84633cb!2sMark+Daily+Athletic+Field!8m2!3d33.6796425!4d-117.809342!16s%2Fg%2F1v6p94c0!3m5!1s0x80dcddcac4543133:0xc4659aaec84633cb!8m2!3d33.6796425!4d-117.809342!16s%2Fg%2F1v6p94c0?entry=ttu&g_ep=EgoyMDI1MTAxMy4wIKXMDSoASAFQAw%3D%3D',
 	},
 	{
 		name: 'Pateadores vs CDA Slammers',
