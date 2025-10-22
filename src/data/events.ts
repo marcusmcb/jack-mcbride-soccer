@@ -90,13 +90,13 @@ export const events = [
 	// 	location: 'Bonita Creek Park (Newport Beach)',
 	// 	map: 'google.com/maps/search/?api=1&query=3010%20La%20Vida%20Newport%20Beach%2C%20CA%2092660%2C%20USA',
 	// },
-	{
-		name: 'Pateadores vs Sporting Slammers',
-		date: '10/19/2025',
-		time: '10:30 AM',
-		location: 'Mark Daily Athletic Field (Irvine)',
-		map: 'https://www.google.com/maps/place/Mark+Daily+Athletic+Field/@33.6796469,-117.8119169,17z/data=!4m14!1m7!3m6!1s0x80dcddcac4543133:0xc4659aaec84633cb!2sMark+Daily+Athletic+Field!8m2!3d33.6796425!4d-117.809342!16s%2Fg%2F1v6p94c0!3m5!1s0x80dcddcac4543133:0xc4659aaec84633cb!8m2!3d33.6796425!4d-117.809342!16s%2Fg%2F1v6p94c0?entry=ttu&g_ep=EgoyMDI1MTAxMy4wIKXMDSoASAFQAw%3D%3D',
-	},
+	// {
+	// 	name: 'Pateadores vs Sporting Slammers',
+	// 	date: '10/19/2025',
+	// 	time: '10:30 AM',
+	// 	location: 'Mark Daily Athletic Field (Irvine)',
+	// 	map: 'https://www.google.com/maps/place/Mark+Daily+Athletic+Field/@33.6796469,-117.8119169,17z/data=!4m14!1m7!3m6!1s0x80dcddcac4543133:0xc4659aaec84633cb!2sMark+Daily+Athletic+Field!8m2!3d33.6796425!4d-117.809342!16s%2Fg%2F1v6p94c0!3m5!1s0x80dcddcac4543133:0xc4659aaec84633cb!8m2!3d33.6796425!4d-117.809342!16s%2Fg%2F1v6p94c0?entry=ttu&g_ep=EgoyMDI1MTAxMy4wIKXMDSoASAFQAw%3D%3D',
+	// },
 	{
 		name: 'Pateadores vs CDA Slammers',
 		date: '10/25/2025',
@@ -110,6 +110,20 @@ export const events = [
 		time: '10:15 AM',
 		location: 'Lincoln Elementary School',
 		map: 'https://www.google.com/maps/search/?api=1&query=3101%20Pacific%20View%20Dr%2C%20Corona%20Del%20Mar%2C%20CA%2092625%2C%20USA',
+	},
+	{
+		name: "Pateadores vs SDSC Surf Escondido",
+		date: "11/08/2025",
+		time: "1:00 PM",
+		location: "Galway Downs, Field 20 (Temecula)",
+		map: "https://www.google.com/maps/place/Galway+Downs+Soccer+Complex/@33.489001,-117.0369591,16z/data=!4m6!3m5!1s0x80db827dbd18cf51:0xe7515b404c351446!8m2!3d33.4878691!4d-117.0357144!16s%2Fg%2F11f5bqcbnj!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+	},
+	{
+		name: "Pateadores vs Express SC Premier",
+		date: "11/09/2025",
+		time: "1:00 PM",
+		location: "Galway Downs, Field 20 (Temecula)",
+		map: "https://www.google.com/maps/place/Galway+Downs+Soccer+Complex/@33.489001,-117.0369591,16z/data=!4m6!3m5!1s0x80db827dbd18cf51:0xe7515b404c351446!8m2!3d33.4878691!4d-117.0357144!16s%2Fg%2F11f5bqcbnj!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
 	},
 	{
 		name: 'Sailors vs Rancho Alamitos',
