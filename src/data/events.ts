@@ -125,13 +125,13 @@ export const events = [
 	// 	location: "Galway Downs, Field 20 (Temecula)",
 	// 	map: "https://www.google.com/maps/place/Galway+Downs+Soccer+Complex/@33.489001,-117.0369591,16z/data=!4m6!3m5!1s0x80db827dbd18cf51:0xe7515b404c351446!8m2!3d33.4878691!4d-117.0357144!16s%2Fg%2F11f5bqcbnj!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
 	// },
-	{
-		name: 'Sailors vs Rancho Alamitos',
-		date: '12/02/2025',
-		time: '4:30 PM',
-		location: 'Newport Harbor High School',
-		map: 'https://www.google.com/maps/place/Newport+Harbor+High+School/@33.6241578,-117.9118809,17.89z/data=!4m6!3m5!1s0x80dcdfe4fc9a092f:0xd1d9e813fc294f4f!8m2!3d33.6231012!4d-117.9110025!16zL20vMGNkcjFu!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D',
-	},
+	// {
+	// 	name: 'Sailors vs Rancho Alamitos',
+	// 	date: '12/02/2025',
+	// 	time: '4:30 PM',
+	// 	location: 'Newport Harbor High School',
+	// 	map: 'https://www.google.com/maps/place/Newport+Harbor+High+School/@33.6241578,-117.9118809,17.89z/data=!4m6!3m5!1s0x80dcdfe4fc9a092f:0xd1d9e813fc294f4f!8m2!3d33.6231012!4d-117.9110025!16zL20vMGNkcjFu!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D',
+	// },
 	{
 		name: 'Sailors vs Yorba Linda',
 		date: '12/05/2025',
