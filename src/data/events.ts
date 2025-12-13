@@ -146,13 +146,13 @@ export const events = [
 	// 	location: 'Los Alamitos High School',
 	// 	map: 'https://www.google.com/maps/place/Los+Alamitos+High+School/@33.8127139,-118.0718263,16z/data=!3m1!4b1!4m6!3m5!1s0x80dd2e636a88fb03:0x8f149fb4d08f3394!8m2!3d33.8127095!4d-118.0692514!16zL20vMDhfZ3Mz!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D',
 	// },
-	{
-		name: 'Sailors vs Marina',
-		date: '12/12/2025',
-		time: '3:00 PM',
-		location: 'Marina High School (Huntington Beach)',
-		map: 'https://www.google.com/maps/place/Marina+High+School/@33.7313324,-118.0477066,14z/data=!3m1!4b1!4m6!3m5!1s0x80dd25e7537bbb71:0x9baf47a89362caa8!8m2!3d33.7313341!4d-118.02715!16zL20vMGcwYnhk!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D',
-	},
+	// {
+	// 	name: 'Sailors vs Marina',
+	// 	date: '12/12/2025',
+	// 	time: '3:00 PM',
+	// 	location: 'Marina High School (Huntington Beach)',
+	// 	map: 'https://www.google.com/maps/place/Marina+High+School/@33.7313324,-118.0477066,14z/data=!3m1!4b1!4m6!3m5!1s0x80dd25e7537bbb71:0x9baf47a89362caa8!8m2!3d33.7313341!4d-118.02715!16zL20vMGcwYnhk!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D',
+	// },
 	{
 		name: 'Sailors vs Corona Del Mar',
 		date: '12/17/2025',
