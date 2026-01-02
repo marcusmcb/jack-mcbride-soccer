@@ -8,7 +8,7 @@ const App = () => {
 	const links = [
 		{
 			href: '#events',
-			label: 'Fall 2025 Schedule',
+			label: 'Winter 2026 Schedule',
 			onClick: (e: React.MouseEvent) => {
 				e.preventDefault()
 				setPage('events')
