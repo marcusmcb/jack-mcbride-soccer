@@ -195,13 +195,13 @@ export const events = [
 	// 	location: 'Newport Harbor High School',
 	// 	map: 'https://www.google.com/maps/place/Newport+Harbor+High+School/@33.6241578,-117.9118809,17.89z/data=!4m6!3m5!1s0x80dcdfe4fc9a092f:0xd1d9e813fc294f4f!8m2!3d33.6231012!4d-117.9110025!16zL20vMGNkcjFu!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D',
 	// },
-	{
-		name: 'Sailors vs Edison',
-		date: '01/09/2026',
-		time: '3:00 PM',
-		location: 'Edison High School (Huntington Beach)',
-		map: 'https://www.google.com/maps/place/Edison+High+School/@33.6530228,-117.9899886,14z/data=!3m1!4b1!4m6!3m5!1s0x80dd20e2d6231f9b:0xde178f3c235bfaa0!8m2!3d33.6530245!4d-117.969432!16zL20vMDZiN2Iw!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D',
-	},
+	// {
+	// 	name: 'Sailors vs Edison',
+	// 	date: '01/09/2026',
+	// 	time: '3:00 PM',
+	// 	location: 'Edison High School (Huntington Beach)',
+	// 	map: 'https://www.google.com/maps/place/Edison+High+School/@33.6530228,-117.9899886,14z/data=!3m1!4b1!4m6!3m5!1s0x80dd20e2d6231f9b:0xde178f3c235bfaa0!8m2!3d33.6530245!4d-117.969432!16zL20vMDZiN2Iw!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D',
+	// },
 	{
 		name: 'Sailors vs Los Alamitos',
 		date: '01/14/2026',
