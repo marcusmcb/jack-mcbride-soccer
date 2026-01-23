@@ -237,4 +237,11 @@ export const events = [
 		location: 'Huntington Beach High School',
 		map: 'https://www.google.com/maps/place/Huntington+Beach+High+School/@33.6764141,-118.0231281,14z/data=!3m1!4b1!4m6!3m5!1s0x80dd26b32503f25b:0x99cad47972c7c3b5!8m2!3d33.6764158!4d-118.0025715!16zL20vMDk2Yzhi!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D',
 	},
+	{
+		name: 'Pateadores / Las Vegas College Showcase',
+		date: '03/07/2026',
+		time: '10:00 AM',
+		location: 'Las Vegas, NV',
+		map: 'https://www.google.com/maps/place/las+vegas,+nv/data=!4m2!3m1!1s0x80beb782a4f57dd1:0x3accd5e6d5b379a3?sa=X&ved=1t:155783&ictx=111',
+	},
 ]
