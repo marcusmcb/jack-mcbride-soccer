@@ -237,13 +237,13 @@ export const events = [
 	// 	location: 'Huntington Beach High School',
 	// 	map: 'https://www.google.com/maps/place/Huntington+Beach+High+School/@33.6764141,-118.0231281,14z/data=!3m1!4b1!4m6!3m5!1s0x80dd26b32503f25b:0x99cad47972c7c3b5!8m2!3d33.6764158!4d-118.0025715!16zL20vMDk2Yzhi!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D',
 	// },
-	{
-		name: 'Pateadores vs Huntington Beach',
-		date: '02/28/2026',
-		time: '1:00 PM',
-		location: 'Bonita Creek Park, Newport Beach, CA',
-		map: 'https://www.google.com/maps/place/Bonita+Creek+Park+Community+Center/@33.6474099,-117.8664228,17z/data=!3m1!4b1!4m6!3m5!1s0x80dcde38878861c9:0xecd0fd85006c598c!8m2!3d33.6474099!4d-117.8638479!16s%2Fg%2F1th63pc2?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D',
-	},
+	// {
+	// 	name: 'Pateadores vs Huntington Beach',
+	// 	date: '02/28/2026',
+	// 	time: '1:00 PM',
+	// 	location: 'Bonita Creek Park, Newport Beach, CA',
+	// 	map: 'https://www.google.com/maps/place/Bonita+Creek+Park+Community+Center/@33.6474099,-117.8664228,17z/data=!3m1!4b1!4m6!3m5!1s0x80dcde38878861c9:0xecd0fd85006c598c!8m2!3d33.6474099!4d-117.8638479!16s%2Fg%2F1th63pc2?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D',
+	// },
 	{
 		name: 'Pateadores @ Las Vegas College Showcase',
 		date: '03/07/2026',
