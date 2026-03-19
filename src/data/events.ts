@@ -259,6 +259,13 @@ export const events = [
 	// 	map: 'https://www.google.com/maps/place/Surf+Sports+Park/@32.9840261,-117.2217892,16z/data=!4m10!1m2!2m1!1ssurf+cup+sports+partk!3m6!1s0x80dc085709387159:0x248a04ee410d3423!8m2!3d32.9840267!4d-117.2170284!15sChRzdXJmIGN1cCBzcG9ydHMgcGFya1oWIhRzdXJmIGN1cCBzcG9ydHMgcGFya5IBDnNwb3J0c19jb21wbGV4mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVI0ZDNRemIwRlJFQUXgAQD6AQQIABAR!16s%2Fg%2F11c2r3wx0p?entry=ttu&g_ep=EgoyMDI2MDMwMi4wIKXMDSoASAFQAw%3D%3D',
 	// },
 	{
+		name: 'Pateadores vs Santa Ana United',
+		date: '03/21/2026',
+		time: '1:00 PM',
+		location: 'Arroyo Park (Newport Beach, CA)',
+		map: 'https://www.google.com/maps/place/Arroyo+Park/@33.6355176,-117.8613509,17z/data=!4m6!3m5!1s0x80dcdf35a350b38d:0x122b8ea20caff6fb!8m2!3d33.6355132!4d-117.858776!16s%2Fg%2F11kpn0n1p1?entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D',
+	},
+	{
 		name: 'Pateadores vs CDA Slammers',
 		date: '03/29/2026',
 		time: '2:30 PM',
