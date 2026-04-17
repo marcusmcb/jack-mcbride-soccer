@@ -265,11 +265,11 @@ export const events = [
 	// 	location: 'Arroyo Park (Newport Beach, CA)',
 	// 	map: 'https://www.google.com/maps/place/Arroyo+Park/@33.6355176,-117.8613509,17z/data=!4m6!3m5!1s0x80dcdf35a350b38d:0x122b8ea20caff6fb!8m2!3d33.6355132!4d-117.858776!16s%2Fg%2F11kpn0n1p1?entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D',
 	// },
-	{
-		name: 'Pateadores vs CDA Slammers',
-		date: '03/29/2026',
-		time: '2:30 PM',
-		location: 'Silverlakes Sports Complex, Field 4',
-		map: 'https://www.google.com/maps/place/SilverLakes+Equestrian+and+Sports+Park/@33.9517615,-117.5576201,15.33z/data=!4m6!3m5!1s0x80dcca03a783526d:0x7090e90e7dfd428e!8m2!3d33.9530944!4d-117.5540374!16s%2Fg%2F11bw46sv0q?entry=ttu&g_ep=EgoyMDI2MDMwMi4wIKXMDSoASAFQAw%3D%3D',
-	},
+	// {
+	// 	name: 'Pateadores vs CDA Slammers',
+	// 	date: '03/29/2026',
+	// 	time: '2:30 PM',
+	// 	location: 'Silverlakes Sports Complex, Field 4',
+	// 	map: 'https://www.google.com/maps/place/SilverLakes+Equestrian+and+Sports+Park/@33.9517615,-117.5576201,15.33z/data=!4m6!3m5!1s0x80dcca03a783526d:0x7090e90e7dfd428e!8m2!3d33.9530944!4d-117.5540374!16s%2Fg%2F11bw46sv0q?entry=ttu&g_ep=EgoyMDI2MDMwMi4wIKXMDSoASAFQAw%3D%3D',
+	// },
 ]
