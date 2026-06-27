@@ -2,9 +2,18 @@ import './App.css'
 import { useState } from 'react'
 import { events } from './data/events'
 
+type EventItem = {
+	name: string
+	date: string
+	time: string
+	location: string
+	map?: string
+}
+
 const App = () => {
 	const [page, setPage] = useState<'main' | 'events'>('main')
 	const profileImg = '/images/jack_soccer.jpg'
+	const scheduleEvents: EventItem[] = events
 	const links = [
 		{
 			href: '#events',
@@ -63,27 +72,31 @@ const App = () => {
 				<div className='events-page'>
 					<h2 className='events-title'>Upcoming Games</h2>
 					<div className='events-list'>
-						{events.map((event, idx) => (
-							<div className='event-card' key={idx}>
-								<div className='event-name'>{event.name}</div>
-								<div className='event-details'>
-									<span>{event.date}</span> | <span>{event.time}</span>
+						{scheduleEvents.length === 0 ? (
+							<div className='event-card'>No scheduled games posted yet.</div>
+						) : (
+							scheduleEvents.map((event, idx) => (
+								<div className='event-card' key={idx}>
+									<div className='event-name'>{event.name}</div>
+									<div className='event-details'>
+										<span>{event.date}</span> | <span>{event.time}</span>
+									</div>
+									<div className='event-location'>
+										<span>{event.location}</span>
+										{event.map && (
+											<a
+												href={event.map}
+												className='event-map-link'
+												target='_blank'
+												rel='noopener noreferrer'
+											>
+												View Map
+											</a>
+										)}
+									</div>
 								</div>
-								<div className='event-location'>
-									<span>{event.location}</span>
-									{event.map && (
-										<a
-											href={event.map}
-											className='event-map-link'
-											target='_blank'
-											rel='noopener noreferrer'
-										>
-											View Map
-										</a>
-									)}
-								</div>
-							</div>
-						))}
+							))
+						)}
 					</div>
 					<button
 						className='profile-link'
